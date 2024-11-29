@@ -14,9 +14,6 @@
 🚀Copy-to-Clipboard:
         Quickly copy generated passwords for use.
 
-🛠️ Usage:
-       Clone the repository:
-                 git clone https://github.com/username/password-generator.git
 
 🚀Navigate to the project directory:
        cd password-generator
